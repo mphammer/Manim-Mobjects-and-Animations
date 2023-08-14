@@ -21,10 +21,8 @@ You can view the videos created by each of these files on my [YouTube Channel](h
 [![Watch the video](https://www.youtube.com/watch?v=bCsk6hnMO5w/default.jpg)](https://www.youtube.com/watch?v=bCsk6hnMO5w)
 
 2
-[![Video](https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
+[![Video](https://www.youtube.com/watch?v=5qj3b7DY5oA/maxresdefault.jpg)](https://www.youtube.com/watch?v=5qj3b7DY5oA)
 
-
-https://www.youtube.com/watch?v=5qj3b7DY5oA
 
 ## Running the Code
 You need to have python and manim set up on your computer. Please search for documentation for [setting up Python](https://www.youtube.com/watch?v=M323OL6K5vs) and visit the [Manim Community website to install Manim](https://docs.manim.community/en/stable/installation.html).  
