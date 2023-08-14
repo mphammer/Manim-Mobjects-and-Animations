@@ -18,17 +18,11 @@ You can use the code as a reference for very simple examples. The Manim Communit
 You can view the videos created by each of these files on my [YouTube Channel](https://www.youtube.com/channel/UC3xlS5T2M6we94bCsYneNXA): 
 
 1
-[![Watch the video](https://www.youtube.com/watch?v=bCsk6hnMO5w/default.jpg)](https://www.youtube.com/watch?v=bCsk6hnMO5w)
-
-2
-[![Video](https://www.youtube.com/watch?v=5qj3b7DY5oA/maxresdefault.jpg)](https://www.youtube.com/watch?v=5qj3b7DY5oA)
-
-3
 [![Watch the video](https://img.youtube.com/vi/bCsk6hnMO5w/default.jpg)](https://youtu.be/bCsk6hnMO5w)
 
-4
+2
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bCsk6hnMO5w" target="_blank">
- <img src="http://img.youtube.com/vi/bCsk6hnMO5w/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="http://img.youtube.com/vi/bCsk6hnMO5w/mqdefault.jpg" alt="Youtube: Manim Animations" width="500" border="10" />
 </a>
 
 
