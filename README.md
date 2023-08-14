@@ -13,9 +13,7 @@ This repo contains code that showcases two of Manim's fundamental resources:
 You can use the code as a reference for very simple examples. The Manim Community also has documentation on their website [here (Manim Community)](https://docs.manim.community/en/stable/reference.html). 
 
 
-## Watch Online
-
-You can view the videos created by each of these files on my [YouTube Channel](https://www.youtube.com/channel/UC3xlS5T2M6we94bCsYneNXA): 
+## Watch On [My YouTube Channel](https://www.youtube.com/channel/UC3xlS5T2M6we94bCsYneNXA): 
 
 ### 56 Manim Mobjects in ONE Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bCsk6hnMO5w" target="_blank">
@@ -26,11 +24,6 @@ You can view the videos created by each of these files on my [YouTube Channel](h
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=5qj3b7DY5oA" target="_blank">
  <img src="http://img.youtube.com/vi/5qj3b7DY5oA/mqdefault.jpg" alt="Watch on Youtube" width="500" border="10" />
 </a>
-
-
-
-https://www.youtube.com/watch?v=5qj3b7DY5oA&t=2s -> animations
-https://www.youtube.com/watch?v=bCsk6hnMO5w -> mobjects
 
 
 ## Running the Code
