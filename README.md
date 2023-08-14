@@ -23,6 +23,14 @@ You can view the videos created by each of these files on my [YouTube Channel](h
 2
 [![Video](https://www.youtube.com/watch?v=5qj3b7DY5oA/maxresdefault.jpg)](https://www.youtube.com/watch?v=5qj3b7DY5oA)
 
+3
+[![Watch the video](https://img.youtube.com/vi/bCsk6hnMO5w/default.jpg)](https://youtu.be/bCsk6hnMO5w)
+
+4
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bCsk6hnMO5w" target="_blank">
+ <img src="http://img.youtube.com/vi/bCsk6hnMO5w/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 
 ## Running the Code
 You need to have python and manim set up on your computer. Please search for documentation for [setting up Python](https://www.youtube.com/watch?v=M323OL6K5vs) and visit the [Manim Community website to install Manim](https://docs.manim.community/en/stable/installation.html).  
