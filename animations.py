@@ -86,6 +86,7 @@ class AllMObjects(ThreeDScene):
             Torus(),
         ]
 
+        # Show all 2D MObjects
         self.add(t)
         self.wait(0.2)
         for mobj in mobject_list:
@@ -96,10 +97,10 @@ class AllMObjects(ThreeDScene):
             except:
                 continue
         
+        # Show all 3D MObjects
         self.play(Transform(t,Text("Looking at 3D Mobjects...").shift(UP*2.5)), run_time=0.5)
         self.wait(1)
 
-        # self.set_camera_orientation(phi=75 * DEGREES, theta=30 * DEGREES)
         self.begin_3dillusion_camera_rotation(rate=4)
         self.wait(2)
 
