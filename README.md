@@ -2,7 +2,7 @@
 
 ## Overview
 
-Manim is an open-srouce python library for generating videos of Mathematical Visualizations. 
+Manim is an open-source python library for generating videos of Mathematical Visualizations. 
 
 This repo contains code that showcases two of Manim's fundamental resources:
 1. MObjects - the objects that you can move around and transform
